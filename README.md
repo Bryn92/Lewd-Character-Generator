@@ -1,5 +1,9 @@
 # Lewd Character Generator
 
+
+TO RUN THE PROGRAM, DOWNLOAD THE characterCore.rb, Index.rb and geniGen.rb FILES IN A SINGLE
+FOLDER AND RUN characterCore.rb WITH RUBY TO GENERATE THE CHARACTER!
+
 This was a pet project of mine, don't know if I'll get back to it again anytime soon.
 
 It generates some random lewd 'characters' to serve as inspiration for you, it gives some
